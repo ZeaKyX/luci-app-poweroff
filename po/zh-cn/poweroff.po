@@ -19,4 +19,4 @@ msgid "Shut down your router"
 msgstr "关闭设备"
 
 msgid "Perform PowerOff"
-msgstr "关机..."
+msgstr "关机"
