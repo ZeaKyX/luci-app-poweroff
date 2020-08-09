@@ -16,7 +16,16 @@ msgid "PowerOff"
 msgstr "关机"
 
 msgid "Shut down your router"
-msgstr "关闭设备"
+msgstr "关闭您设备上的系统"
 
 msgid "Perform PowerOff"
-msgstr "关机"
+msgstr "执行关机"
+
+msgid "Warning: There are unsaved changes that will get lost on shutting down!"
+msgstr "警告：仍有未保存配置，关机将失去这些配置！"
+
+msgid "Waiting for device..."
+msgstr "正在等待设备..."
+
+msgid "Router is shutting down..."
+msgstr "正在关机..."
