@@ -22,7 +22,7 @@ msgid "Perform PowerOff"
 msgstr "执行关机"
 
 msgid "Warning: There are unsaved changes that will get lost on shutting down!"
-msgstr "警告：仍有未保存配置，关机将失去这些配置！"
+msgstr "警告：未保存的更改会在关机时丢失！"
 
 msgid "Waiting for device..."
 msgstr "正在等待设备..."
